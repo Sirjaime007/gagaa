@@ -1,0 +1,22 @@
+{
+  "name": "astro-template-lotus-starter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/check": "latest",
+    "@astrojs/mdx": "latest",
+    "@prosefly/astro-components": "^0.8.2",
+    "@prosefly/astro-theme-lotus": "^0.9.1",
+    "@tailwindcss/vite": "latest",
+    "astro": "^7.3.8",
+    "tailwindcss": "latest",
+    "typescript": "^6.0.3"
+  }
+}
